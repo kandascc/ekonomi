@@ -1,0 +1,6 @@
+{
+  "name": "LABSTAR ECONOMICS MARKET: Ordinal Shopping Experience",
+  "description": "Simulasi marketplace interaktif untuk mengeksplorasi Pendekatan Ordinal dalam Teori Perilaku Konsumen melalui belanja langsung, refleksi pilihan, dan visualisasi kurva indiferensi oleh Labstar Economics Teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
